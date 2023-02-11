@@ -1,0 +1,1 @@
+# tflite_model-for_handwritten_alphabet_detection
